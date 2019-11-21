@@ -23,6 +23,7 @@ BBlue="\[\033[1;34m\]"        # Blue
 BPurple="\[\033[1;35m\]"      # Purple
 BCyan="\[\033[1;36m\]"        # Cyan
 BWhite="\[\033[1;37m\]"       # White
+BOrange="\[\033[1;73m\]"      # Orange
 
 # Underline
 UBlack="\[\033[4;30m\]"       # Black
@@ -33,6 +34,7 @@ UBlue="\[\033[4;34m\]"        # Blue
 UPurple="\[\033[4;35m\]"      # Purple
 UCyan="\[\033[4;36m\]"        # Cyan
 UWhite="\[\033[4;37m\]"       # White
+UOrange="\[\033[4;73m\]"      # Orange
 
 # Background
 On_Black="\[\033[40m\]"       # Black
@@ -43,6 +45,7 @@ On_Blue="\[\033[44m\]"        # Blue
 On_Purple="\[\033[45m\]"      # Purple
 On_Cyan="\[\033[46m\]"        # Cyan
 On_White="\[\033[47m\]"       # White
+On_Orange="\[\033[83m\]"      # Orange
 
 # High Intensty
 IBlack="\[\033[0;90m\]"       # Black
@@ -53,6 +56,7 @@ IBlue="\[\033[0;94m\]"        # Blue
 IPurple="\[\033[0;95m\]"      # Purple
 ICyan="\[\033[0;96m\]"        # Cyan
 IWhite="\[\033[0;97m\]"       # White
+IOrange="\[\033[0;133m\]"     # Orange
 
 # Bold High Intensty
 BIBlack="\[\033[1;90m\]"      # Black
@@ -63,6 +67,7 @@ BIBlue="\[\033[1;94m\]"       # Blue
 BIPurple="\[\033[1;95m\]"     # Purple
 BICyan="\[\033[1;96m\]"       # Cyan
 BIWhite="\[\033[1;97m\]"      # White
+BIOrange="\[\033[1;133m\]"    # Orange
 
 # High Intensty backgrounds
 On_IBlack="\[\033[0;100m\]"   # Black
@@ -73,7 +78,7 @@ On_IBlue="\[\033[0;104m\]"    # Blue
 On_IPurple="\[\033[10;95m\]"  # Purple
 On_ICyan="\[\033[0;106m\]"    # Cyan
 On_IWhite="\[\033[0;107m\]"   # White
-
+On_Orange="\[\033[0;143m\]"   # Orange
 
 
 BLACK="\[\e[00;30m\]"
