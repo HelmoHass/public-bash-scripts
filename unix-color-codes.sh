@@ -56,7 +56,7 @@ IBlue="\[\033[0;94m\]"        # Blue
 IPurple="\[\033[0;95m\]"      # Purple
 ICyan="\[\033[0;96m\]"        # Cyan
 IWhite="\[\033[0;97m\]"       # White
-IOrange="\[\033[0;133m\]"     # Orange
+IOrange=""     # Orange
 
 # Bold High Intensty
 BIBlack="\[\033[1;90m\]"      # Black
